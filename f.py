@@ -34,7 +34,7 @@ for i in range(len(animation)):
 
 
 os.system("xdg-open https://www.facebook.com/groups/2282442651904924/?ref=share")
-time.sleep(1)
+time.sleep(5)
 
 # Color
 a='\033[1;30m'
